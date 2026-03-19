@@ -119,18 +119,6 @@ Or drag and drop `index.html` directly into any browser window. No server needed
 
 ---
 
-## 🧠 What I Learned
-
-Building this project helped develop and strengthen the following skills:
-
-- **Semantic HTML5** — Structuring a multi-section page with meaningful tags
-- **CSS Layout** — Using Flexbox and Grid to build product and category grids
-- **Responsive Design** — Adapting layouts for different screen sizes using media queries
-- **Image Handling** — Embedding and sizing images within card-based layouts
-- **CSS Styling** — Typography, spacing, hover effects, and color management
-- **File & Asset Organisation** — Managing a project with multiple image assets cleanly
-
----
 
 ## 🤝 Contributing
 
