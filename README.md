@@ -17,19 +17,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [About](#-about)
-- [Features](#-features)
-- [Page Sections](#-page-sections)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [What I Learned](#-what-i-learned)
-- [Contributing](#-contributing)
-- [Author](#-author)
-
----
-
 ## 📖 About
 
 **Lebaba** is a front-end clone of a fashion e-commerce website, built as a hands-on exercise in HTML layout and CSS styling. The project focuses on replicating a modern, multi-section retail storefront with a polished, responsive design — using no frameworks or JavaScript.
