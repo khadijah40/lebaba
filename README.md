@@ -25,21 +25,6 @@ The name *Lebaba* reflects a fashion-forward brand identity, and the project dem
 
 ---
 
-## ✨ Features
-
-| Feature | Details |
-|---|---|
-| 🏠 Hero / Header | Full-width banner with headline and call-to-action |
-| 🗂️ Category Grid | 4-category product browsing section with images |
-| 🛍️ Product Cards | 7 product listings with images, names, and pricing layout |
-| 🔥 Deals Section | Promotional deals banner with visual highlight |
-| 📝 Blog Section | 3 blog post cards with images and preview text |
-| 📸 Instagram Feed | 6-photo Instagram-style image grid |
-| 📱 Responsive Design | Adapts cleanly across desktop and mobile screen sizes |
-| 🎨 Pure CSS Styling | No frameworks — all layout and styling hand-written |
-
----
-
 ## 🗂️ Page Sections
 
 The page is divided into the following distinct sections, each styled independently:
